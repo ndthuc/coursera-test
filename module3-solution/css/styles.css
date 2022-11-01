@@ -1,0 +1,46 @@
+body {
+    font-size: 16px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+nav {
+    border: 2px solid black;
+}
+
+
+.navbar-header button.navbar-toggle{
+    border: 2px solid black;
+}
+
+/* div.navbar-header div#collapsable-nav ul.nav > li {
+    border: 2px solid black;
+} */
+
+
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+.navbar-brand h1 {
+    color: black;
+}
+
+.navbar-header {
+    border-bottom: 2px solid black;
+}
+
+#top {
+    font-weight: bold;
+}
+.title-text{
+    font-weight: bold;
+}
+
+#chicken-title,
+#beef-title,
+#sushi-title {
+    width: 100%;
+    padding: 10px;
+}
