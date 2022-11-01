@@ -27,7 +27,7 @@ nav {
     color: black;
 }
 
-.navbar-header {
+#header-nav .container-fluid {
     border-bottom: 2px solid black;
 }
 
